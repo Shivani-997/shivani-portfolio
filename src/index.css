@@ -1,0 +1,22 @@
+
+
+@import "tailwindcss";
+
+/* REQUIRED FOR DARK MODE */
+@custom-variant dark (&:where(.dark, .dark *));
+html {
+  scroll-behavior: smooth;
+}
+
+/* Fix navbar overlap */
+section {
+  scroll-margin-top: 100px;
+}
+
+html.light {
+  background: white;
+}
+
+html.dark {
+  background: black;
+}
