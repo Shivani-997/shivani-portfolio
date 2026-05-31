@@ -15,7 +15,7 @@ function Projects() {
       category: "Web",
       image: portfolioImg,
       tech: ["MERN"],
-      github: "#",
+      github: "https://github.com/Shivani-997/shivani-portfolio",
       live: "#",
     },
     {
