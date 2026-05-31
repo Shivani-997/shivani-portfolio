@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { FaTrophy, FaMedal, FaExternalLinkAlt } from "react-icons/fa";
-import oexCert from "../assets/oex-tech.jpg";
+import oexCert from "../assets/Oex-Tech.jpg";
 
 function Achievements() {
   const achievements = [
