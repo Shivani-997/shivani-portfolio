@@ -6,7 +6,7 @@
 
 ## 🌐 Live Demo
 
-🔗 Live Website: https://your-live-link.vercel.app  
+🔗 Live Website: https://shivani-portfolio-rust.vercel.app/
 🔗 GitHub Repository:https://github.com/Shivani-997/shivani-portfolio
 
 ---
